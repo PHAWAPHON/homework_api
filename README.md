@@ -1,2 +1,2 @@
 # homework_api
-run https://github.com/PHAWAPHON/homework_api
+run (https://homework-api-two.vercel.app/)https://homework-api-two.vercel.app/
